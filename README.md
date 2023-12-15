@@ -15,7 +15,7 @@ This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch]
 
 ## Installation
 
-To install `etch`, download the repository into the `themes` folder in the root of your site.
+To install `glitch`, download the repository into the `themes` folder in the root of your site.
 
 ```
 $ git submodule add https://github.com/vikfp/glitch.git themes/glitch
