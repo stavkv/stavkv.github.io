@@ -1,5 +1,5 @@
 baseURL = "https://vikki.pages.dev"
-title = "Vikki S."
+title = "<3"
 theme = "glitch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "Vikki's Personal Website for portfolio and blogs "
-  copyright = "Copyright © 2023 Vikki S."
+  copyright = "Copyright © 2023 VS"
   dark = "auto"
   highlight = true
 
@@ -28,12 +28,7 @@ pygmentsUseClasses = true
     weight = 10
 
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "contact"
-    title = "contact"
-    url = "/contact/"
-    weight = 30
+  
 
 
 
