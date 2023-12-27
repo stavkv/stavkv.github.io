@@ -17,6 +17,9 @@ I also post *guides* and *tutorials* . you can take a look at them in **posts** 
 
 - RSS-Feed [@vikki.pages.dev](https://vikki.pages.dev/index.xml)
 - GitHub [@stavkv](https://github.com/stavkv)
+- GitLab [@stavkv](https://gitlab.com/stavkv)
+- Email [@stavkv.air](mailto:stavkv.air@proron.me)
+  
 
 
 
