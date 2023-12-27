@@ -4,7 +4,7 @@ title: "Home"
 
 
 <br>
-<h3>Hey Everyone👋</h3>
+<h2 align="center">Hey Everyone👋</h2>
 <br>
 
 I'm  **Vikki** . I'm a 22 year old friendly neighborhood full stack web developer, linux/unix & open-source software enthusiast, graduated in computer science and a avid reader..[Read more](/about).
@@ -16,9 +16,7 @@ I also post *guides* and *tutorials* . you can take a look at them in **posts** 
 ## Qucik Links
 
 - RSS-Feed [@vikki.pages.dev](https://vikki.pages.dev/index.xml)
-- GitHub [@vikfp](https://github.com/stavkv)
-- Email [vs@proton.me](mailto:vikalsingh@proton.me)
-- Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
+- GitHub [@stavkv](https://github.com/stavkv)
 
 
 
