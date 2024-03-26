@@ -68,26 +68,25 @@ title: "About"
               </li>
               <li class="spec-card p-4">
                 <h3 class="text-base md:text-lg">
-                  Laptop Specs (HP G15s 14-inches)
+                  Laptop Specs (HP G14s 14-inches)
                 </h3>
                 <ul>
-                  <li>CPU: Ryzen 5 3500u (with VEGA 8)</li>
-                  <li>RAM: 2x8GB DDR4</li>
-                  <li>SSD: 256GB Samsung 860 PRO</li>
-                  <li>HDD: 1TB Seagate Barracuda</li>
+                  <li>CPU: Ryzen 3 5300u (with VEGA 8)</li>
+                  <li>RAM: 8GB DDR4</li>
+                  <li>SSD: 512GB Samsung 860 PRO</li>
                 </ul>
               </li>
               <li class="spec-card p-4">
                 <h3 class="text-base md:text-lg">Additional</h3>
                 <ul>
-                  <li>Phone: Galaxy S20 FE</li>
-                  <li>Tablet: Samsung A8 (for reading)</li>
+                  <li>Phone: Moto g40 fusion </li>
+                  <li>Tablet: Oppo Pad Air (for reading)</li>
                 </ul>
               </li>
               <li class="spec-card p-4">
                 <h3 class="text-base md:text-lg">Software</h3>
                 <ul>
-                  <li>OSes: Win10, Pop!_OS (cosmic), Arch (i3wm)</li>
+                  <li>OSes: Win10, Debian sid (unstable), Arch (i3wm)</li>
                   <li>Editor: VSCode, Neovim (AstroNvim)</li>
                   <li class="text-sm md:text-base">
                     Notes: Notion, Obsidian
