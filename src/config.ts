@@ -17,7 +17,7 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: true,
+  enable: false,
   svg: true,
   width: 216,
   height: 46,
@@ -40,18 +40,18 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:stavkv.air@proton.me",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",
     href: "https://twitter.com/vikistaken",
     linkTitle: `${SITE.title} on Twitter`,
-    active: false,
+    active: true,
   },
   {
     name: "GitLab",
     href: "https://gitlsb.com/stavkb",
     linkTitle: `${SITE.title} on GitLab`,
-    active: false,
+    active: true,
   },
 ];
