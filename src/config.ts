@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://stavkv.is-a.dev/", // replace this with your deployed domain
   author: "Vikki",
   desc: "A minimal, responsive and SEO-friendly Astro blog by Vikki.",
-  title: "Vikki's Website",
+  title: "Vik.",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -17,7 +17,7 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: false,
+  enable: true,
   svg: true,
   width: 216,
   height: 46,
@@ -52,24 +52,6 @@ export const SOCIALS: SocialObjects = [
     name: "GitLab",
     href: "https://gitlsb.com/stavkb",
     linkTitle: `${SITE.title} on GitLab`,
-    active: false,
-  },
-  {
-    name: "Steam",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Steam`,
-    active: false,
-  },
-  {
-    name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Telegram`,
-    active: false,
-  },
-  {
-    name: "Mastodon",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Mastodon`,
     active: false,
   },
 ];
