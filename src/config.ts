@@ -32,7 +32,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/vikal-singh",
+    href: "https://linkedin.in/vikal-singh",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -52,18 +52,6 @@ export const SOCIALS: SocialObjects = [
     name: "GitLab",
     href: "https://gitlsb.com/stavkb",
     linkTitle: `${SITE.title} on GitLab`,
-    active: false,
-  },
-  {
-    name: "Reddit",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Reddit`,
-    active: false,
-  },
-  {
-    name: "Skype",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Skype`,
     active: false,
   },
   {
