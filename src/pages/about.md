@@ -1,6 +1,5 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
 ---
 
 <main>
@@ -8,7 +7,7 @@ title: "About"
         <div class="about-me">
           <div class="title">
             <hr />
-            <h1 class="text-center text-2xl mt-2 font-medium">{title}</h1>
+            <h1 class="text-center text-2xl mt-2 font-medium">About Me</h1>
             <hr />
           </div>
           <div class="about text-base">
