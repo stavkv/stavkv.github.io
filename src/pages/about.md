@@ -13,7 +13,7 @@ title: "About"
           </div>
           <div class="about text-base">
             <p>
-              I’m Nikhil, a CS Student and a Full-Stack Web Developer from
+              I’m Vikki, a CS Student and a Full-Stack Web Developer from
               India. I’m not picky about what I work with; I dive into anything
               that gets the job done. I love crafting automation scripts and
               websites that make life easier, whether it’s through my trusty
